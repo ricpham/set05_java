@@ -1,0 +1,6 @@
+
+x
+java:S1450"VRemove the "context" field and declare it as a local variable in the relevant methods.(úàôûÿÿÿÿ8ÛŸğÇç0
+]	java:S125#"<This block of commented-out lines of code should be removed.(Ô±½¨şÿÿÿÿ8âŸğÇç0
+M
+java:S1068"+Remove this unused "context" private field.(úàôûÿÿÿÿ8ãŸğÇç0
